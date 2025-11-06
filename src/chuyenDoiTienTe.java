@@ -1,6 +1,4 @@
-import java.util.Scanner;
-public class chuyenDoiTienTe {
-    static void main() {
+void main() {
         // Tỷ giá cố định
         final double TY_GIA = 23500;
 
@@ -20,4 +18,4 @@ public class chuyenDoiTienTe {
         // Đóng Scanner
         Nhap.close();
     }
-}
+
